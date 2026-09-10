@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is the home of Tony's progress on CS 480 - Interactive XR Documentaries. The following will be a digital archive of my work. 

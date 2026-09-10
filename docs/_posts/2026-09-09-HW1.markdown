@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "HW 1: Unity First Scene"
+date:   2026-09-09
+categories: jekyll update
+---
+
+Here I have a basic Unity scene that contains a simple table, a chair, and a snowglobe. 
+
+The snowglobe uses a glass shader and inverted shaders to create the effect.
+
+![A picture of a unity scene with basic shapes and materials]({{'/media/table_and_snow.png' | relative_url}})
