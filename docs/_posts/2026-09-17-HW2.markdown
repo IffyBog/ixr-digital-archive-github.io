@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "HW 2: Unity Intro"
+date:   2026-09-17
+categories: jekyll update
+---
+
+In this homework we start diving more into Unity as a game engine. Creating an playable game with a player, intractables, and an enemy (AI).
+
+This was my first time writing scripts in Unity, something I've been wanting to do for a while. It was easier than I imagined, though it's important to note: it may be worth recommending to use Visual Studio for editing `C#` scripts as it doesn't require an re-import when editing the script this saving precious time.
+
+From a power-user perspective, I feel like Unity likes to hide keybinds from the user, not showing them nearly as often as I think they should be displayed. I remember trying to find the keybind to simply disabling / enabling a game object, I never found out until a friend *told me* (I think it's `shift+alt+a`).
+
+Getting to work a bit more Unity's built-in AI system was very intuitive. I had a thought as I'm writing this, perhaps it may be worth-while to add in distance animals in the Southwood XR project. Using baked animations and basic AI could help add a bit of life (if used tastefully) to a Unity scene. 
+
+In my Unity game, I added textures to all materials. Adjusting tiling to make it look right (enough).
+
+<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="2026-09-17 20-38-39" src="https://jmu.instructuremedia.com/embed/0711a137-42c7-4ce8-a452-7b0d74af9b8c" frameborder="0"></iframe>
