@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HW 3: First XR Experience"
+date:   2026-10-03
+categories: jekyll update
+---
+
+In this homework we start working with an XR Unity project, using intractables, playing sounds, and testing from a simulated XR view.
+
+In my scene I wanted to make something simple. I don't have much time to create something, so let's spend some time appreciating some low-poly models that others have created and shared on the internet. 
+
+At first, I tried to enable the user to interact with the toggles with their hand, but for whatever reason, I couldn't get it to work. Unity can be a complex beast, it's hard to know what gameObject to actually tag and add the collision components to. So I just used the head like in the tutorial and extended the toggle colliders. 
+
+Each toggle shows a new model, and plays a sound to let the user know that something may have changed.There's no text to these toggles, just different color cubes, each one is a surprise! (I didn't want to spend the time adding text boxes, guh)
+
+<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="2026-10-03 17-40-22" src="https://jmu.instructuremedia.com/embed/a8f7f2c8-505b-4193-a3cd-a1859c97c9f1" frameborder="0"></iframe>
