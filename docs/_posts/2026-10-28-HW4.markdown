@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<a href="{{ '/docs/media/tonys-soxr-unity-toolkit-docs-v1.0.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+<a href="{{ '/media/tonys-soxr-unity-toolkit-docs-v1.0.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
   SoXR Unity Toolkit Docs
 </a>
 
