@@ -7,7 +7,18 @@ categories: jekyll update
 
 
 <a href="{{ '/media/tonys-soxr-unity-toolkit-docs-v1.0.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-  SoXR Unity Toolkit Docs
+  Click here for Tony's SoXR Unity Toolkit Docs
 </a>
+
+This homework we delve deeper into writing Unity scripts for our Unity Scenes to serve as building blocks for our future Unity work.
+
+Getting to work with scripts and Unity has been fun. I felt like I've gotten a sense of how to write C# code in a way that can be useful to me. I spent some time getting the [VS Code extension](https://code.visualstudio.com/docs/other/unity) working, which was very worth my time to get formatting and proper syntax highlighting.
+
+This "no-code" tool kit is still at the level where you need a good amount of technical intuition to do meaningful things with it. It's not "no-code", it's code with gui, connecting objects and calling methods with a mouse with an interface as apposed to a keyboard with an IDE. It's a weird term anyways. I hope those in the English section are able to pick it up and use it; I know we have a range technical experiances. 
+My hope is that we can bring the took kit one step further. In my opinion, it will become more "no-code" when it's more about dragging prefabs into the scene than connecting scripts together. For example, we could create a prefab that plays an audio track when you enter an area, and another one for playing a video when the user is near or looking at it. They would only need to replace the audio, video, and maybe the bounds that detect the area. It's just another level of abstraction but the less time spent in the Unity inspector the better. 
+
+I further confirmed this idea when working with Luke during Thursday's class. It's not simply drag and drop yet, you still need to manually specify *which* methods you want to call from *what* object.
+
+In any case, I'm excited to start helping my teammates along in using and working in Unity. Being able to work with this tool in a classroom environment was something I didn't expect to be a reality for me before coming to JMU.
 
 <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="2026-10-29 00-52-25" src="https://jmu.instructuremedia.com/embed/099a509d-cd5f-4f59-9350-b9753e0b9503" frameborder="0"></iframe>
