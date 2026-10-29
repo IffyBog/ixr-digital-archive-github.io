@@ -5,8 +5,8 @@ date:   2026-10-28
 categories: jekyll update
 ---
 
-[Link to Tony's SoXR Unity Toolkit Docs (v 1.0)](docs\media\Tony's SoXR Unity Toolkit Docs (v 1.0).pdf)
 
+<a href="docs\media\Tony's SoXR Unity Toolkit Docs (v 1.0).pdf">SoXR Unity Toolkit Docs</a>
 
 
 <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="2026-10-29 00-52-25" src="https://jmu.instructuremedia.com/embed/099a509d-cd5f-4f59-9350-b9753e0b9503" frameborder="0"></iframe>
